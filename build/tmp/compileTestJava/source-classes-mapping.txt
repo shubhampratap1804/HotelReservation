@@ -1,0 +1,2 @@
+com/hoteltest/HotelTest.java
+ com.hoteltest.HotelTest
